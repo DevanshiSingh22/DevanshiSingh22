@@ -7,12 +7,22 @@
 
 ## 🧰 Tech Stack
 
-💻 **Languages:** Java, JavaScript, C, Python  
-🌐 **Frontend:** ReactJS, Next.js, HTML5, CSS3, Tailwind CSS  
-🧩 **Backend:** Node.js, Express.js  
-🛢️ **Databases:** MongoDB, MySQL  
-🧠 **Concepts:** DSA, JWT Authentication, REST APIs, CI/CD, AI Integrations  
-⚙️ **Tools:** Git, GitHub, VS Code, Postman, Vercel, Render  
+💻 **Languages:** Java, JavaScript, C, Python, TypeScript  
+
+🎨 **Frontend Development:**  
+React.js • Next.js • HTML5 • CSS3 • Tailwind CSS  
+
+⚙️ **Backend Development:**  
+Node.js • Express.js  
+
+🛢️ **Databases:**  
+MongoDB • MySQL  
+
+🧠 **Concepts & Technologies:**  
+Data Structures & Algorithms • REST APIs • JWT Authentication • RBAC • API Integration  
+
+🛠️ **Tools & Platforms:**  
+Git • GitHub • VS Code • IntelliJ IDEA • Postman • Docker • Linux • Vercel • Render
 
 ---
 
